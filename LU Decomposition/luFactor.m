@@ -1,6 +1,6 @@
 %Cameron Denison
+%4/2/19
 %Mech 105
-%4/2/2019
 function [L,U,P] = luFactor(A)
 %Inputs:
 %• A - coefficient matrix
