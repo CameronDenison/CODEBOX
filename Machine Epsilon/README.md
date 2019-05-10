@@ -3,4 +3,4 @@
 *function ans = machineepsilon*
 
 ## How it works
-This function calclates the value of machine epsilon by setting up an infinite loop and breaking when the desired value is acheived
+This function calclates the value of machine epsilon by setting up an infinite loop and breaking when the desired value is acheived.
