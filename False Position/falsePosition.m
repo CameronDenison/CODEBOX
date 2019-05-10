@@ -1,5 +1,5 @@
-%% False Position 
-% by Cameron Denison
+% Cameron Denison
+% 3/3/19
 % Mech 105
 function [root,ea,iter,fx] = falsePosition(func,xl,xu,es,maxiter)
 % Inputs
