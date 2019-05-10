@@ -18,4 +18,4 @@ nd - the number of days that have passed in the year
 Days works by using the input values to determine the number of days that have passed in a year. If it is a leap year, an extra day is added.***
 
 
-*** This does not account for desired dates that are before February 29 on a leap year
+*** This does not account for desired dates that are before February 29 on a leap year.
