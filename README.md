@@ -2,7 +2,7 @@
 
 Mech 105 Course Algorithms
 
-`CODEBOX` is a repository that contains all of the MATLAB algorithms that were assigned to complete in my Mech 105 course.
+<a href="https://github.com/CameronDenison/CODEBOX/">`CODEBOX`</a> is a repository that contains all of the MATLAB algorithms that were assigned to complete in my Mech 105 course.
 
 The list of algorithims includes:
 
