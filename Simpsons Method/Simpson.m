@@ -1,14 +1,14 @@
-%Cameron Denison
-%4/18/19
-%Mech 105
-%Function: (function I = Simpson(x,y)) 
-%The function numerically evaluates the integral
-%The function uses the vector of function values ‘y’ with respect to ‘x’
-%WHILE
-%• Error checking, so that the inputs are the same length
-%• Error checking, so that the x input is equally spaced
-%• Warning the user (not an error, just a warning) if the trapezoidal rule 
-%  has to be used on the last interval.
+% Cameron Denison
+% 4/18/19
+% Mech 105
+% Function: (function I = Simpson(x,y)) 
+% The function numerically evaluates the integral
+% The function uses the vector of function values ‘y’ with respect to ‘x’
+% WHILE
+% • Error checking, so that the inputs are the same length
+% • Error checking, so that the x input is equally spaced
+% • Warning the user (not an error, just a warning) if the trapezoidal rule 
+%   has to be used on the last interval.
 function I = Simpson(x,y)
 if length(x)~=length(y)
     error('inputs must be same length')
