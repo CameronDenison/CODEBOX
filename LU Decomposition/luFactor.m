@@ -7,11 +7,11 @@ function [L,U,P] = luFactor(A)
 %Outputs:
 %• L - lower triangular matrix
 %• U - upper triangular matrix
-%• P - the pivot m
+%• P - the pivot matrix
 %[L,U,P]= luFactor(A) calculates the LU decomposition of the array A using
 %pivoting. This is done by setting up the identity matrices with the
 %correct zeros and ones. They are then applied to the A array using partial
-%pivoting and a double nested loop.
+%pivoting. These are used to create the L matrix and the U Matrix.
 %setting up the identity matrices
 [K,K]=size(A);
 
