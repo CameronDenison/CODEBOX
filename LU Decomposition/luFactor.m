@@ -1,6 +1,6 @@
-%Cameron Denison
-%4/2/19
-%Mech 105
+% Cameron Denison
+% 4/2/19
+% Mech 105
 function [L,U,P] = luFactor(A)
 %Inputs:
 %• A - coefficient matrix
