@@ -1,4 +1,4 @@
-# <a href="https://github.com/CameronDenison/CODEBOX/blob/master/Simpsons%20Method/Simpson.m">luFactor.m</a>
+# <a href="https://github.com/CameronDenison/CODEBOX/blob/master/Simpsons%20Method/Simpson.m">Simpson.m</a>
 ***
 *function I = Simpson(x,y)*
 
